@@ -9,7 +9,7 @@
 
 # Hi there 👋 I'm Uladzislau 👨‍💻
 Tranee Java Developer. Currently i'm learning Java by myself using documentation, books, YouTube, javarash.ru.
-Completed an online course from EPAM. And also i create my pet projects.
+Completed an online course from EPAM. And also i'm creating my pet projects.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=nemiro54&show_icons=true&count_private=true"><img
