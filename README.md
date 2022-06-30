@@ -40,19 +40,19 @@ Completed an online course from EPAM. And also i'm creating my pet projects.
 
 ## 🛠 Technical Stack
 *   Java SE, EE
-*   Servlets, JSP
-*   Hibernate
-*   REST API
-*   SQL, PostgreSQL
-*   Spring Framework, Spring Boot, Spring MVC, Spring Test
+*   Spring Framework
+*   MySQL
 *   Apache Tomcat, Maven
+*   Hibernate
+*   Servlets, JSP
+*   REST API
+*   SQL, MySQL
 *   JUnit
 *   Git/GitHub
-*   Agile, Scrum
 
 ### My projects
 
-*   [TelegramBot] <!-- (https://github.com/javarushcommunity/javarush-telegrambot) --> - TeleramBot. Practiced the following skills: Spring Boot, PostgreSQL, Maven
+*   [TelegramBot] <!-- (https://github.com/javarushcommunity/javarush-telegrambot) --> - TeleramBot. Practiced the following skills: Maven
 
 <!--
 *   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
