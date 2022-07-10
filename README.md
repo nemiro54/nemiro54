@@ -7,9 +7,10 @@
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 👋 I'm Uladzislau 👨‍💻
-Tranee Java Developer. Currently i'm learning Java by myself using documentation, books, YouTube, javarash.ru.
-Completed an online course from EPAM. And also i'm creating my pet projects.
+# Hi there 👋 I'm Uladzislau 👨‍💻 Junior Java Developer
+* Currently i'm learning Java by myself using documentation, books, YouTube, javarash.ru
+* Completed an online course from EPAM
+* And also i'm creating my pet projects.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=nemiro54&show_icons=true&count_private=true"><img
@@ -39,20 +40,21 @@ Completed an online course from EPAM. And also i'm creating my pet projects.
 -->
 
 ## 🛠 Technical Stack
-*   Java SE, EE
+*   Java SE
 *   Spring Framework
+*   Docker
 *   MySQL
-*   Apache Tomcat, Maven
-*   Hibernate
-*   Servlets, JSP
+*   Flyway
+*   Maven
+*   MySQL
+*   JUnit, Mockito
+*   SOLID
 *   REST API
-*   SQL, MySQL
-*   JUnit
 *   Git/GitHub
 
-### My projects
+### My pet-projects:
 
-*   [TelegramBot] <!-- (https://github.com/javarushcommunity/javarush-telegrambot) --> - TeleramBot. Practiced the following skills: Maven
+*   [TelegramBot](https://github.com/nemiro54/telegram-bot) - Practiced and mastered the following skills: Spring Framework, Maven, JUnit, Mockito, Docker, MySQL, Flyway and etc.
 
 <!--
 *   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
