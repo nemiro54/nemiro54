@@ -46,15 +46,15 @@
 *   MySQL
 *   Flyway
 *   Maven
-*   MySQL
 *   JUnit, Mockito
+*   JDBC
 *   SOLID
 *   REST API
 *   Git/GitHub
 
 ### My pet-projects:
 
-*   [TelegramBot](https://github.com/nemiro54/telegram-bot) - Practiced and mastered the following skills: Spring Framework, Maven, JUnit, Mockito, Docker, MySQL, Flyway and etc.
+*   [TelegramBot](https://github.com/nemiro54/telegram-bot) - Practiced and mastered the following skills: Spring Framework, REST API, Maven, JUnit, Mockito, Docker, MySQL, Flyway etc.
 
 <!--
 *   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
