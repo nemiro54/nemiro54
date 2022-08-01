@@ -10,8 +10,9 @@
 # Hi there 👋 I'm Uladzislau 👨‍💻 Java Developer
 * I'm currently looking for internship or my first developer job
 * I'm learning Java by myself using documentation, books, YouTube and other courses
-* Completed an online course from EPAM
-* Created a TelegramBot application with the help of SpringBoot, Docker, MySQL, etc.
+* Created a TelegramBot application using SpringBoot, Docker, MySQL, etc.
+* Completed an online course from EPAM "Introduction to Java"
+
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=nemiro54&show_icons=true&count_private=true"><img
