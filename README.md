@@ -1,11 +1,4 @@
-<!--
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 # Hi there 👋 I'm Vladislav 👨‍💻 Software Engineer with 3 years of experience
 * I'm currently open to job offers
@@ -16,7 +9,7 @@
    <a href="https://github-readme-stats.vercel.app/api?username=nemiro54&show_icons=true&count_private=true"><img
            height=150
            src="https://github-readme-stats.vercel.app/api?username=nemiro54&show_icons=true&count_private=true&theme=tokyonight"/></a>
-   <a href="https://github.com/nemiro54/github-readme-stats"><img height=150
+   <a href="https://github.com/nemiro54/github-readme-stat"><img height=150
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemiro54&layout=compact&theme=tokyonight"/></a>
 </p>
 
