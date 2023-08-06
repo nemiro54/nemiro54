@@ -1,6 +1,6 @@
 
 
-# Hi there 👋 I'm Vladislav 👨‍💻 Software Engineer with 3 years of experience
+# Hi there 👋 I'm Vladislav 👨‍💻 Backend Developer
 * I'm currently open to job offers
 * I'm open to any suggestions for collaborations
 
